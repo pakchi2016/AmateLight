@@ -1,0 +1,41 @@
+# Visual Studio関連
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+
+# ビルド出力
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# パッケージ
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.dll
+*.exe
+
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+venv/
+
+# その他
+.idea/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
