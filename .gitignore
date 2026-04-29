@@ -4,3 +4,6 @@
 
 /.vs
 /Amatelight/obj/Debug/net10.0
+/Amatelight/bin/Debug/net10.0
+/Amatelight/obj
+/Amatelight/Properties
